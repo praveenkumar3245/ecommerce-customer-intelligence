@@ -21,4 +21,3 @@ data/warehouse/*.sqlite
 Thumbs.db
 .idea/
 .vscode/
-

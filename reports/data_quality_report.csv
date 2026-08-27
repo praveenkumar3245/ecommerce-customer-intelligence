@@ -1,0 +1,16 @@
+check,passed,observed,expectation
+customers: primary key uniqueness,True,0,0 duplicate keys
+products: primary key uniqueness,True,0,0 duplicate keys
+sessions: primary key uniqueness,True,0,0 duplicate keys
+orders: primary key uniqueness,True,0,0 duplicate keys
+order_items: primary key uniqueness,True,0,0 duplicate keys
+sessions -> customers,True,0,0 orphan keys
+orders -> customers,True,0,0 orphan keys
+order_items -> orders,True,0,0 orphan keys
+order_items -> products,True,0,0 orphan keys
+funnel stages are monotonic,True,0,0 stage-order violations
+order assignment matches conversion,True,True,converted sessions have one order; others have none
+order totals reconcile to line items,True,0.0,variance < EUR 0.01
+net revenue formula,True,0.0,variance < EUR 0.01
+financial values are non-negative,True,0,0 negative values
+date range,True,2024-01-01 to 2025-12-31,orders fall inside the session date range

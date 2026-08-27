@@ -1,0 +1,92 @@
+// Create these measures in a dedicated _Measures table.
+
+Net Revenue = SUM ( Orders[net_revenue] )
+
+Gross Revenue = SUM ( Orders[gross_revenue] )
+
+Gross Profit = SUM ( Orders[gross_profit] )
+
+Gross Margin % = DIVIDE ( [Gross Profit], [Net Revenue] )
+
+Orders = DISTINCTCOUNT ( Orders[order_id] )
+
+Completed Orders =
+CALCULATE (
+    DISTINCTCOUNT ( Orders[order_id] ),
+    Orders[order_status] = "Completed"
+)
+
+Purchasing Customers =
+CALCULATE (
+    DISTINCTCOUNT ( Orders[customer_id] ),
+    Orders[order_status] = "Completed"
+)
+
+AOV = DIVIDE ( [Net Revenue], [Completed Orders] )
+
+Sessions = DISTINCTCOUNT ( Sessions[session_id] )
+
+Product Views = SUM ( Sessions[viewed_product] )
+
+Add To Carts = SUM ( Sessions[added_to_cart] )
+
+Checkout Starts = SUM ( Sessions[checkout_started] )
+
+Conversions = SUM ( Sessions[converted] )
+
+Conversion Rate = DIVIDE ( [Conversions], [Sessions] )
+
+View To Cart Rate = DIVIDE ( [Add To Carts], [Product Views] )
+
+Cart To Checkout Rate = DIVIDE ( [Checkout Starts], [Add To Carts] )
+
+Checkout To Order Rate = DIVIDE ( [Conversions], [Checkout Starts] )
+
+Returned Orders =
+CALCULATE (
+    DISTINCTCOUNT ( Orders[order_id] ),
+    Orders[order_status] = "Returned"
+)
+
+Return Rate = DIVIDE ( [Returned Orders], [Orders] )
+
+Discount Rate = DIVIDE ( SUM ( Orders[discount_amount] ), [Gross Revenue] )
+
+Revenue MoM % =
+VAR PriorMonthRevenue =
+    CALCULATE ( [Net Revenue], DATEADD ( 'Date'[Date], -1, MONTH ) )
+RETURN
+    DIVIDE ( [Net Revenue] - PriorMonthRevenue, PriorMonthRevenue )
+
+Revenue YoY % =
+VAR PriorYearRevenue =
+    CALCULATE ( [Net Revenue], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+RETURN
+    DIVIDE ( [Net Revenue] - PriorYearRevenue, PriorYearRevenue )
+
+Repeat Customers =
+COUNTROWS (
+    FILTER (
+        VALUES ( Customers[customer_id] ),
+        CALCULATE ( [Completed Orders] ) >= 2
+    )
+)
+
+Repeat Purchase Rate = DIVIDE ( [Repeat Customers], [Purchasing Customers] )
+
+Revenue per Customer = DIVIDE ( [Net Revenue], [Purchasing Customers] )
+
+Units Sold = SUM ( 'Order Items'[quantity] )
+
+Line Gross Revenue = SUM ( 'Order Items'[line_gross_revenue] )
+
+// Calculated table: add once from Modeling > New table.
+// Date =
+// ADDCOLUMNS (
+//     CALENDAR ( DATE ( 2024, 1, 1 ), DATE ( 2025, 12, 31 ) ),
+//     "Year", YEAR ( [Date] ),
+//     "Month Number", MONTH ( [Date] ),
+//     "Month", FORMAT ( [Date], "YYYY-MM" ),
+//     "Quarter", "Q" & FORMAT ( [Date], "Q" )
+// )
+

@@ -1,0 +1,23 @@
+{
+  "name": "Nordstern Commerce",
+  "dataColors": ["#0F766E", "#0891B2", "#0B1F33", "#F59E0B", "#DC2626", "#64748B", "#7C3AED", "#22C55E"],
+  "background": "#F5F7FA",
+  "foreground": "#0B1F33",
+  "tableAccent": "#0F766E",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{"show": true, "fontFamily": "Segoe UI Semibold", "fontSize": 12, "fontColor": {"solid": {"color": "#0B1F33"}}, "alignment": "left"}],
+        "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#D9E2EC"}}, "radius": 8}]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{"fontFamily": "Segoe UI Semibold", "fontSize": 22, "color": {"solid": {"color": "#0F766E"}}}],
+        "categoryLabels": [{"fontFamily": "Segoe UI", "fontSize": 10, "color": {"solid": {"color": "#52606D"}}}]
+      }
+    }
+  }
+}
+

@@ -1,0 +1,181 @@
+product_id,product_name,category,subcategory,units_sold,orders,net_revenue,gross_profit,gross_margin_rate,list_price,unit_return_rate
+P0005,Urban Audio Edge,Electronics,Audio,188,159,40011.1,13634.9,0.3408,246.28,0.0479
+P0060,Nova Accessories Edge,Electronics,Accessories,127,100,31503.32,8300.9,0.2635,292.09,0.0866
+P0025,Nova Fitness Plus,Sports & Outdoors,Fitness,162,135,29940.33,8380.33,0.2799,205.03,0.0185
+P0034,Motion Smart Home Plus,Electronics,Smart Home,150,115,25200.43,7971.79,0.3163,185.68,0.0467
+P0086,Core Accessories Go,Electronics,Accessories,115,95,25112.4,6354.59,0.253,244.65,0.0348
+P0064,Nova Audio Go,Electronics,Audio,110,92,22428.82,6044.61,0.2695,230.87,0.0364
+P0028,Studio Audio Plus,Electronics,Audio,175,149,22029.13,7401.01,0.336,148.48,0.08
+P0027,Alpine Fitness Classic,Sports & Outdoors,Fitness,150,121,21835.07,6367.79,0.2916,169.53,0.06
+P0016,Prime Decor One,Home & Living,Decor,188,159,21807.08,5620.28,0.2577,137.12,0.1064
+P0074,Motion Fitness Mini,Sports & Outdoors,Fitness,119,93,20385.72,6012.12,0.2949,203.81,0.0924
+P0044,Flex Decor Classic,Home & Living,Decor,193,153,19949.54,4329.54,0.217,119.83,0.0674
+P0007,Urban Bags Classic,Fashion,Bags,208,159,19737.19,7353.63,0.3726,111.14,0.0673
+P0137,Urban Audio Select,Electronics,Audio,91,72,19147.67,6446.05,0.3366,257.34,0.0989
+P0033,Nova Fitness Pro,Sports & Outdoors,Fitness,157,124,18590.38,4030.93,0.2168,136.29,0.0637
+P0128,Alpine Accessories One,Electronics,Accessories,81,61,17833.14,4386.72,0.246,242.56,0.0247
+P0080,Motion Kitchen One,Home & Living,Kitchen,122,99,16413.59,3599.55,0.2193,158.7,0.0902
+P0017,Prime Cycling Pro,Sports & Outdoors,Cycling,159,129,16261.48,3603.6,0.2216,121.23,0.0692
+P0057,Studio Care Classic,Pet Supplies,Care,166,137,15810.27,4082.43,0.2582,105.4,0.0241
+P0054,Prime Outdoor Go,Sports & Outdoors,Outdoor,133,112,15563.61,4737.74,0.3044,135.98,0.0752
+P0065,Studio Audio Go,Electronics,Audio,120,97,15044.71,3878.11,0.2578,143.29,0.0333
+P0130,Prime Cycling Edge,Sports & Outdoors,Cycling,86,75,14171.49,4120.29,0.2907,186.84,0.0698
+P0083,Alpine Footwear Plus,Fashion,Footwear,125,101,12005.0,4805.54,0.4003,113.47,0.064
+P0038,Urban Apparel Select,Fashion,Apparel,177,133,11895.6,4278.9,0.3597,81.41,0.1073
+P0036,Core Bags Edge,Fashion,Bags,141,121,11724.82,3801.94,0.3243,98.86,0.0993
+P0067,Prime Footwear Edge,Fashion,Footwear,122,100,11591.59,4148.99,0.3579,111.5,0.082
+P0001,Urban Fitness Plus,Sports & Outdoors,Fitness,162,135,10907.54,2762.48,0.2533,75.01,0.0494
+P0030,Flex Wellness Plus,Beauty & Care,Wellness,167,137,10831.67,2674.29,0.2469,74.22,0.0659
+P0006,Urban Footwear One,Fashion,Footwear,181,142,10797.45,3497.76,0.3239,71.8,0.0994
+P0022,Nova Haircare Max,Beauty & Care,Haircare,164,137,10780.15,2172.07,0.2015,73.13,0.0488
+P0165,Flex Accessories Go,Electronics,Accessories,56,51,10500.05,2779.54,0.2647,211.3,0.0536
+P0133,Studio Smart Home Plus,Electronics,Smart Home,93,79,10370.27,3260.51,0.3144,130.7,0.0645
+P0097,Flex Footwear Go,Fashion,Footwear,89,78,10157.35,3494.47,0.344,128.16,0.0449
+P0141,Urban Kitchen Select,Home & Living,Kitchen,92,69,9994.32,2081.03,0.2082,137.45,0.1522
+P0076,Prime Accessories Essential,Electronics,Accessories,112,90,9873.12,2620.16,0.2654,100.42,0.0536
+P0048,Urban Decor Pro,Home & Living,Decor,137,116,9770.6,1966.44,0.2013,80.76,0.0584
+P0092,Prime Accessories Select,Electronics,Accessories,94,83,9701.57,2342.4,0.2414,112.66,0.0319
+P0142,Urban Bags Max,Fashion,Bags,87,64,9560.23,3575.93,0.374,145.72,0.1839
+P0089,Eco Kitchen Pro,Home & Living,Kitchen,100,86,9508.18,1988.68,0.2092,112.8,0.08
+P0117,Studio Bags Essential,Fashion,Bags,85,69,9466.45,2992.08,0.3161,137.05,0.0941
+P0157,Motion Accessories One,Electronics,Accessories,89,65,9419.09,2689.85,0.2856,119.62,0.0449
+P0099,Alpine Audio One,Electronics,Audio,104,87,9349.16,3064.64,0.3278,99.24,0.0481
+P0066,Motion Wellness Go,Beauty & Care,Wellness,152,120,9049.43,1328.86,0.1468,67.1,0.0592
+P0075,Motion Bags Classic,Fashion,Bags,104,88,8873.36,3337.7,0.3761,99.26,0.0962
+P0107,Eco Smart Home Essential,Electronics,Smart Home,95,77,8845.54,2915.19,0.3296,112.82,0.0842
+P0082,Core Decor Max,Home & Living,Decor,127,99,8680.98,2382.87,0.2745,78.61,0.0709
+P0037,Flex Apparel Go,Fashion,Apparel,164,131,8652.64,2576.12,0.2977,62.9,0.1037
+P0124,Flex Smart Home Essential,Electronics,Smart Home,89,76,8641.6,2193.12,0.2538,111.73,0.0449
+P0090,Urban Smart Home Go,Electronics,Smart Home,111,89,8478.78,2157.66,0.2545,85.76,0.036
+P0014,Studio Creative One,Books & Stationery,Creative,159,131,8301.7,1722.63,0.2075,58.09,0.044
+P0049,Motion Outdoor One,Sports & Outdoors,Outdoor,130,109,8283.83,2330.63,0.2813,73.38,0.0692
+P0087,Flex Footwear Essential,Fashion,Footwear,95,76,7962.5,3080.42,0.3869,99.46,0.0947
+P0146,Core Bags Classic,Fashion,Bags,75,62,7797.96,2558.28,0.3281,129.6,0.12
+P0115,Motion Bags Mini,Fashion,Bags,90,69,7781.77,2516.02,0.3233,97.42,0.0556
+P0043,Prime Audio One,Electronics,Audio,128,111,7663.14,1930.14,0.2519,69.25,0.0625
+P0032,Nova Accessories Classic,Electronics,Accessories,142,116,7150.51,2146.99,0.3003,58.84,0.0775
+P0020,Flex Care Essential,Pet Supplies,Care,157,137,7093.03,1204.58,0.1698,51.64,0.0573
+P0112,Pure Decor Pro,Home & Living,Decor,93,76,6991.17,1295.48,0.1853,81.36,0.0215
+P0108,Core Storage Plus,Home & Living,Storage,102,85,6953.49,1747.41,0.2513,76.6,0.049
+P0010,Eco Decor Pro,Home & Living,Decor,173,151,6936.8,1345.18,0.1939,46.49,0.052
+P0084,Eco Storage Essential,Home & Living,Storage,116,90,6901.15,1880.61,0.2725,67.33,0.0603
+P0132,Prime Bags Max,Fashion,Bags,88,75,6868.31,2050.71,0.2986,90.52,0.0682
+P0013,Alpine Outdoor Classic,Sports & Outdoors,Outdoor,185,150,6646.9,1713.62,0.2578,39.95,0.0486
+P0077,Pure Audio Go,Electronics,Audio,104,86,6587.65,1967.54,0.2987,72.19,0.0385
+P0155,Core Wellness Plus,Beauty & Care,Wellness,84,68,6303.91,1283.05,0.2035,85.28,0.0357
+P0163,Nova Audio Max,Electronics,Audio,75,60,6249.18,1732.78,0.2773,94.23,0.04
+P0008,Prime Smart Home Essential,Electronics,Smart Home,176,151,6179.43,1630.47,0.2639,42.12,0.1023
+P0072,Studio Skincare Essential,Beauty & Care,Skincare,135,112,6085.89,1034.09,0.1699,49.8,0.0296
+P0126,Flex Footwear Edge,Fashion,Footwear,98,78,5958.84,2071.64,0.3477,73.3,0.0918
+P0135,Nova Audio Plus,Electronics,Audio,86,73,5903.3,1659.71,0.2811,76.65,0.0465
+P0002,Urban Creative Classic,Books & Stationery,Creative,178,149,5880.96,1119.84,0.1904,37.13,0.0225
+P0050,Prime Creative One,Books & Stationery,Creative,127,108,5789.44,763.94,0.132,53.39,0.0709
+P0015,Flex Apparel Max,Fashion,Apparel,206,157,5750.46,2175.98,0.3784,33.35,0.0825
+P0153,Flex Apparel Go,Fashion,Apparel,77,64,5741.66,2078.0,0.3619,91.71,0.1169
+P0021,Urban Smart Home Pro,Electronics,Smart Home,155,131,5580.07,1323.28,0.2371,42.06,0.0645
+P0143,Alpine Bags Classic,Fashion,Bags,80,65,5497.61,1759.61,0.3201,77.84,0.0625
+P0062,Nova Decor Classic,Home & Living,Decor,122,103,5241.47,1005.71,0.1919,49.84,0.0574
+P0029,Studio Audio Max,Electronics,Audio,154,132,4871.47,1450.58,0.2978,37.39,0.0649
+P0125,Urban Wellness Edge,Beauty & Care,Wellness,98,77,4770.43,782.81,0.1641,55.13,0.0306
+P0171,Urban Smart Home Pro,Electronics,Smart Home,53,48,4446.6,1360.59,0.306,92.06,0.0189
+P0042,Prime Apparel Classic,Fashion,Apparel,118,100,4390.98,1628.43,0.3709,44.21,0.0932
+P0158,Urban Storage Plus,Home & Living,Storage,73,61,4312.49,1222.57,0.2835,67.48,0.0685
+P0046,Pure Bags Plus,Fashion,Bags,139,120,4310.64,1646.89,0.3821,36.29,0.0719
+P0052,Motion Accessories Pro,Electronics,Accessories,112,96,4258.67,1214.35,0.2851,42.52,0.0446
+P0073,Nova Wellness Mini,Beauty & Care,Wellness,113,96,4113.21,758.31,0.1844,40.66,0.0531
+P0012,Alpine Books Edge,Books & Stationery,Books,151,129,3895.92,549.72,0.1411,28.81,0.0397
+P0018,Urban Skincare Edge,Beauty & Care,Skincare,162,133,3885.77,746.69,0.1922,27.8,0.0617
+P0119,Prime Kitchen Mini,Home & Living,Kitchen,81,69,3817.26,1004.46,0.2631,50.57,0.0
+P0110,Alpine Bags Mini,Fashion,Bags,67,53,3798.38,1182.7,0.3114,65.79,0.0896
+P0026,Nova Bags Plus,Fashion,Bags,140,117,3603.47,1199.36,0.3328,30.27,0.0857
+P0160,Core Office Edge,Books & Stationery,Office,63,52,3483.15,631.95,0.1814,61.38,0.0476
+P0091,Eco Storage Go,Home & Living,Storage,92,74,3363.19,790.6,0.2351,40.93,0.0543
+P0104,Eco Creative Essential,Books & Stationery,Creative,78,63,3327.71,606.27,0.1822,48.3,0.0641
+P0172,Core Care Go,Pet Supplies,Care,90,79,3302.98,783.94,0.2373,42.81,0.0667
+P0113,Prime Wellness Pro,Beauty & Care,Wellness,108,89,3298.4,601.4,0.1823,34.96,0.0648
+P0156,Alpine Food Classic,Pet Supplies,Food,67,55,3101.25,750.53,0.242,51.26,0.0299
+P0103,Prime Decor Max,Home & Living,Decor,92,76,3095.86,650.41,0.2101,38.69,0.0326
+P0068,Pure Smart Home Plus,Electronics,Smart Home,100,89,3026.3,971.9,0.3212,33.41,0.02
+P0078,Pure Accessories Plus,Electronics,Accessories,101,83,3006.2,836.3,0.2782,35.33,0.1089
+P0166,Motion Audio Max,Electronics,Audio,70,55,3001.48,836.33,0.2786,48.62,0.0429
+P0003,Flex Decor Edge,Home & Living,Decor,166,148,2998.48,783.61,0.2613,19.96,0.0301
+P0145,Alpine Haircare Select,Beauty & Care,Haircare,92,74,2955.68,726.13,0.2457,36.53,0.0543
+P0177,Urban Decor Mini,Home & Living,Decor,65,48,2912.53,690.91,0.2372,51.18,0.0462
+P0176,Prime Skincare One,Beauty & Care,Skincare,55,49,2776.7,502.47,0.181,55.69,0.0
+P0055,Motion Books Select,Books & Stationery,Books,125,106,2755.55,510.95,0.1854,25.2,0.064
+P0056,Core Smart Home Classic,Electronics,Smart Home,130,104,2735.09,835.49,0.3055,24.2,0.0615
+P0105,Core Kitchen Essential,Home & Living,Kitchen,100,92,2726.42,620.82,0.2277,30.78,0.06
+P0106,Prime Audio Essential,Electronics,Audio,79,68,2725.36,797.11,0.2925,38.43,0.0253
+P0134,Motion Decor Essential,Home & Living,Decor,86,69,2705.66,645.68,0.2386,36.64,0.0698
+P0148,Eco Skincare Classic,Beauty & Care,Skincare,66,55,2686.29,493.97,0.1839,45.8,0.0606
+P0035,Pure Bags Select,Fashion,Bags,137,111,2683.88,1028.3,0.3831,23.16,0.0584
+P0024,Motion Storage Essential,Home & Living,Storage,177,148,2556.21,682.47,0.267,16.18,0.0339
+P0173,Motion Books Select,Books & Stationery,Books,58,54,2475.35,453.05,0.183,48.59,0.0517
+P0101,Studio Cycling Essential,Sports & Outdoors,Cycling,94,81,2453.41,547.33,0.2231,29.4,0.0532
+P0169,Core Outdoor One,Sports & Outdoors,Outdoor,61,47,2393.26,620.86,0.2594,45.47,0.082
+P0152,Urban Fitness Essential,Sports & Outdoors,Fitness,74,58,2365.98,542.7,0.2294,35.05,0.0405
+P0031,Nova Care Edge,Pet Supplies,Care,142,119,2343.08,435.17,0.1857,19.3,0.0634
+P0051,Prime Storage One,Home & Living,Storage,128,111,2341.82,491.62,0.2099,21.42,0.0625
+P0085,Prime Skincare Max,Beauty & Care,Skincare,98,76,2341.66,391.36,0.1671,27.69,0.0816
+P0121,Studio Footwear Pro,Fashion,Footwear,83,65,2324.0,772.08,0.3322,32.53,0.0843
+P0071,Eco Storage Essential,Home & Living,Storage,131,105,2288.71,651.95,0.2849,20.83,0.0992
+P0004,Urban Decor Edge,Home & Living,Decor,160,135,2245.78,645.18,0.2873,15.8,0.0563
+P0011,Flex Wellness Plus,Beauty & Care,Wellness,164,129,2214.67,448.5,0.2025,14.5,0.0122
+P0088,Motion Accessories One,Pet Supplies,Accessories,117,95,2195.88,458.98,0.209,21.06,0.0513
+P0040,Flex Bags Select,Fashion,Bags,150,124,2148.95,639.4,0.2975,17.0,0.1
+P0061,Pure Cycling Go,Sports & Outdoors,Cycling,126,104,2131.28,509.73,0.2392,19.98,0.0635
+P0131,Urban Skincare Mini,Beauty & Care,Skincare,77,65,2115.54,516.84,0.2443,30.69,0.039
+P0081,Urban Outdoor Classic,Sports & Outdoors,Outdoor,94,83,2052.33,634.61,0.3092,23.68,0.0213
+P0079,Eco Care Essential,Pet Supplies,Care,103,83,1954.99,434.04,0.222,21.71,0.068
+P0174,Eco Books Select,Books & Stationery,Books,67,56,1933.94,410.6,0.2123,32.51,0.0597
+P0139,Pure Apparel Edge,Fashion,Apparel,84,59,1880.47,575.39,0.306,25.01,0.0595
+P0047,Alpine Storage Mini,Home & Living,Storage,146,120,1875.48,367.53,0.196,14.64,0.0753
+P0140,Core Audio Max,Electronics,Audio,67,53,1836.42,633.0,0.3447,31.1,0.0448
+P0122,Urban Food Edge,Pet Supplies,Food,90,71,1819.11,436.96,0.2402,25.09,0.1111
+P0100,Alpine Creative Pro,Books & Stationery,Creative,80,70,1801.96,297.16,0.1649,25.09,0.025
+P0023,Flex Office Max,Books & Stationery,Office,160,128,1790.1,334.48,0.1868,12.88,0.0875
+P0118,Alpine Smart Home Max,Electronics,Smart Home,81,67,1786.07,463.98,0.2598,24.33,0.0123
+P0045,Core Bags Max,Fashion,Bags,140,113,1757.35,573.95,0.3266,15.23,0.1286
+P0114,Motion Apparel Mini,Fashion,Apparel,79,68,1686.43,509.29,0.302,25.96,0.0886
+P0116,Prime Bags Pro,Fashion,Bags,84,69,1681.23,606.75,0.3609,24.05,0.0833
+P0058,Core Accessories One,Pet Supplies,Accessories,114,98,1652.85,340.57,0.2061,16.39,0.0614
+P0111,Urban Audio Mini,Electronics,Audio,75,65,1640.84,437.72,0.2668,24.07,0.04
+P0150,Alpine Audio Go,Electronics,Audio,65,55,1617.09,413.82,0.2559,29.84,0.1077
+P0070,Pure Skincare Plus,Beauty & Care,Skincare,99,80,1569.51,275.61,0.1756,17.42,0.0202
+P0063,Eco Bags Classic,Fashion,Bags,93,77,1543.11,558.29,0.3618,19.81,0.086
+P0162,Motion Creative Classic,Books & Stationery,Creative,67,50,1542.02,239.81,0.1555,26.07,0.0299
+P0168,Pure Food Classic,Pet Supplies,Food,56,49,1519.25,397.67,0.2618,29.64,0.0357
+P0159,Core Decor Select,Home & Living,Decor,80,61,1517.07,300.57,0.1981,21.51,0.0625
+P0136,Alpine Skincare Select,Beauty & Care,Skincare,80,61,1513.05,236.55,0.1563,21.64,0.0625
+P0093,Pure Office Max,Books & Stationery,Office,87,76,1458.33,195.54,0.1341,19.08,0.0575
+P0059,Studio Decor Edge,Home & Living,Decor,115,100,1431.42,312.06,0.218,14.39,0.0696
+P0179,Nova Fitness Select,Sports & Outdoors,Fitness,48,42,1417.84,321.04,0.2264,37.31,0.1042
+P0098,Flex Bags Mini,Fashion,Bags,94,82,1396.33,433.53,0.3105,17.85,0.0745
+P0095,Nova Storage Edge,Home & Living,Storage,92,78,1381.65,321.27,0.2325,16.99,0.0543
+P0180,Pure Care One,Pet Supplies,Care,58,49,1318.53,351.93,0.2669,25.88,0.0345
+P0053,Eco Office Max,Books & Stationery,Office,120,92,1284.16,286.56,0.2231,11.71,0.0333
+P0129,Core Footwear Edge,Fashion,Footwear,74,61,1262.52,500.92,0.3968,19.65,0.0676
+P0041,Eco Haircare Essential,Beauty & Care,Haircare,143,118,1239.14,253.64,0.2047,9.73,0.035
+P0094,Pure Accessories Go,Pet Supplies,Accessories,100,93,1228.05,194.45,0.1583,13.77,0.05
+P0167,Core Office Essential,Books & Stationery,Office,74,60,1208.15,180.74,0.1496,18.44,0.0676
+P0069,Urban Kitchen Pro,Home & Living,Kitchen,111,91,1185.11,303.38,0.256,12.49,0.0811
+P0123,Motion Food Max,Pet Supplies,Food,70,55,1176.99,238.81,0.2029,20.3,0.1286
+P0039,Pure Office One,Books & Stationery,Office,127,104,1153.14,261.32,0.2266,9.91,0.0236
+P0144,Alpine Apparel Plus,Fashion,Apparel,51,45,1137.11,399.27,0.3511,26.15,0.0588
+P0161,Alpine Accessories Classic,Electronics,Accessories,46,42,1131.78,337.53,0.2982,26.69,0.0217
+P0109,Urban Outdoor Max,Sports & Outdoors,Outdoor,86,70,1128.58,253.42,0.2245,15.28,0.0814
+P0127,Prime Wellness Pro,Beauty & Care,Wellness,80,69,1102.6,268.62,0.2436,15.69,0.075
+P0009,Alpine Food Classic,Pet Supplies,Food,167,126,1081.5,261.06,0.2414,7.17,0.0299
+P0170,Motion Haircare Max,Beauty & Care,Haircare,62,53,1029.84,152.16,0.1478,20.52,0.0806
+P0147,Eco Apparel Plus,Fashion,Apparel,77,61,1002.59,348.83,0.3479,14.71,0.0519
+P0096,Alpine Bags Select,Fashion,Bags,80,65,987.11,327.59,0.3319,14.48,0.1
+P0149,Alpine Fitness Go,Sports & Outdoors,Fitness,75,61,985.04,240.53,0.2442,15.04,0.0667
+P0102,Flex Office Mini,Books & Stationery,Office,72,60,937.4,146.21,0.156,16.84,0.1667
+P0154,Alpine Outdoor Classic,Sports & Outdoors,Outdoor,56,46,913.43,215.75,0.2362,19.05,0.0893
+P0175,Pure Creative Mini,Books & Stationery,Creative,55,45,809.48,175.04,0.2162,16.81,0.0727
+P0164,Nova Accessories One,Pet Supplies,Accessories,68,55,794.99,208.04,0.2617,13.06,0.0441
+P0019,Flex Books Essential,Books & Stationery,Books,159,123,772.9,120.28,0.1556,5.55,0.0755
+P0151,Pure Creative Classic,Books & Stationery,Creative,62,55,733.16,154.88,0.2112,12.63,0.0
+P0138,Motion Decor Select,Home & Living,Decor,55,51,691.05,160.65,0.2325,14.07,0.0545
+P0178,Core Food Mini,Pet Supplies,Food,49,42,636.5,155.8,0.2448,14.68,0.0612
+P0120,Alpine Creative Edge,Books & Stationery,Creative,59,47,574.5,125.22,0.218,11.19,0.0847

@@ -1,0 +1,8 @@
+rfm_segment,customers,net_revenue,avg_customer_value,avg_recency_days,churn_rate
+Champions,904,335249.86,370.8516,34.4082,0.0
+At Risk,982,282189.18,287.3617,304.1365,1.0
+Loyal Customers,369,129668.86,351.4061,116.5257,0.8564
+Potential Loyalists,626,91382.1,145.9778,38.9936,0.0
+Need Attention,709,67484.12,95.1821,104.9154,0.6587
+Hibernating,846,54168.34,64.0288,326.8889,1.0
+New Customers,137,4867.82,35.5315,17.6788,0.0

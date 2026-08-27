@@ -1,0 +1,16 @@
+{
+  "net_revenue": 1143543.31,
+  "gross_revenue": 1305153.51,
+  "gross_profit": 322626.19,
+  "gross_margin_rate": 0.2821,
+  "orders": 8816,
+  "completed_orders": 8135,
+  "purchasing_customers": 4573,
+  "sessions": 100000,
+  "aov": 140.57,
+  "conversion_rate": 0.0882,
+  "return_rate": 0.0601,
+  "repeat_purchase_rate": 0.3459,
+  "churn_rate_90d": 0.571,
+  "month_1_retention_rate": 0.0895
+}

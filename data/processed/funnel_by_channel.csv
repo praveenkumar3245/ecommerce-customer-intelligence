@@ -1,0 +1,7 @@
+channel,sessions,product_views,add_to_carts,checkouts,conversions,session_to_view_rate,view_to_cart_rate,cart_to_checkout_rate,checkout_to_order_rate,overall_conversion_rate
+Email,11490,8389,3053,2026,1608,0.7301,0.3639,0.6636,0.7937,0.1399
+Affiliate,10059,7217,2414,1559,1221,0.7175,0.3345,0.6458,0.7832,0.1214
+Direct,13621,9770,3018,1906,1465,0.7173,0.3089,0.6315,0.7686,0.1076
+Organic Search,26442,18330,4711,2789,2008,0.6932,0.257,0.592,0.72,0.0759
+Paid Search,22717,15751,3835,2217,1606,0.6934,0.2435,0.5781,0.7244,0.0707
+Social,15671,10808,2272,1297,908,0.6897,0.2102,0.5709,0.7001,0.0579

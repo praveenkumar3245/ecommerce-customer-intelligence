@@ -1,0 +1,8 @@
+category,units_sold,orders,net_revenue,gross_profit,avg_unit_return_rate,gross_margin_rate
+Electronics,3999,3322,384886.55,111421.36,0.0525,0.2895
+Fashion,3982,3222,215415.34,75084.69,0.0866,0.3486
+Sports & Outdoors,2157,1775,178427.5,47945.5,0.0641,0.2687
+Home & Living,3515,2923,172594.56,39888.52,0.0625,0.2311
+Beauty & Care,2199,1798,80663.54,15647.42,0.0485,0.194
+Books & Stationery,2128,1758,51909.02,9286.19,0.0566,0.1789
+Pet Supplies,1614,1343,47029.25,10734.96,0.0573,0.2283
