@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+*.inspect.ndjson
+
+# Generated local caches
+work/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Regenerable data (created by scripts/run_pipeline.py --regenerate)
+data/raw/*.csv
+data/warehouse/*.sqlite
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
