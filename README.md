@@ -166,11 +166,7 @@ git remote add origin https://github.com/YOUR_USERNAME/ecommerce-customer-intell
 git push -u origin main
 ```
 
-Before publishing, replace `YOUR_USERNAME`, add your name/contact links at the top of this README, and optionally attach the `.pbix` created in Power BI Desktop under Releases if you want to keep the Git history lightweight.
-
-## Interview talk track
-
-> I built a reproducible e-commerce analytics workflow from raw behavioral and transaction data through a SQL warehouse, Pandas analysis, and stakeholder dashboards. The most important result was not a chart: Affiliate customers produced 123% higher 90-day revenue than the portfolio average, while 982 high-value customers had become at risk. I translated those findings into controlled acquisition and retention tests with measurable guardrails, and I reconciled the same metric contract across SQL, Python, Excel, and Power BI.
+Before publishing, replace `YOUR_USERNAME`, add your name/contact links at the top of this README, and optionally attach the `.pbix` created in Power BI Desktop under Releases if you want to keep the Git history lightweight
 
 ## License
 
